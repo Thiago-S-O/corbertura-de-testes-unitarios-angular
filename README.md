@@ -29,3 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Curso: Testes automatizados com Jasmine e Karma
 
 ## primeira parte: ferramental de testes do angular
+- O papel do Jasmine como framework de testes;
+- O papel do Karma como executor de testes;
+- Estrutura mínima para declaração de testes;
+- Teste de expectativas;
+- Evitando vícios na criação de testes.
