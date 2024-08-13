@@ -34,3 +34,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Estrutura mínima para declaração de testes;
 - Teste de expectativas;
 - Evitando vícios na criação de testes.
+
+## segunda parte: lapidando os testes
+- Importância de testes precisos, legíveis e fáceis de montar;
+- O papel da função `beforeEach`;
+- Teste de exeções;
+- Como testes ajudam na refatoração;
+- Expetativas com contexto;
+- A diferênça entre as funções `toBe()`, `toBeTrue()` e `toBeTruthy()`.
