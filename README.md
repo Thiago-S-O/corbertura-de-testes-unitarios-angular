@@ -42,3 +42,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Como testes ajudam na refatoração;
 - Expetativas com contexto;
 - A diferênça entre as funções `toBe()`, `toBeTrue()` e `toBeTruthy()`.
+
+## terceira parte: like widget
+- A criar um componente de like;
+- Tornar o componente acessível;
+- Integrá-lo na aplicação.
