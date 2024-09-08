@@ -57,3 +57,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Introdução ao uso do Spy;
 - Padronização na descrição de testes.
 
+## última parte: melhorando o ambiemte de testes
+- Testes em paralelo e com diferentes navegadores;
+- Criação de scripts customizados;
+- Trabalhando com navegadores Headless;
+- Lançadores customizados;
+- Cobertura de testes e relatório.
+
